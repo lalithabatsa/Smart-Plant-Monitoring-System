@@ -1,1 +1,2 @@
 # Smart-Plant-Monitoring-System
+Addressing the challenges faced by plant owners in maintaining optimal environmental conditions for their plants, especially when they are unable to physically monitor them regularly. This includes issues such as fluctuating temperature, humidity, and moisture levels, as well as the need for timely watering and security monitoring. Overall, to create a smart plant monitoring system to enable users to remotely monitor and manage the environmental conditions of their plants.
